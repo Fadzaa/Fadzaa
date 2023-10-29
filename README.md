@@ -14,7 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadzaa&layout=compact&hide=C%2B%2B,CMake,css&show_icons=true&locale=en&&theme=tokyonight" alt="fadzaa" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadzaa&show_icons=true&locale=en&theme=tokyonight" alt="fadzaa" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fadzaa&show_icons=true&locale=en&theme=tokyonight" alt="fadzaa" /></p>
 
 <p><img align="left" src="https://streak-stats.demolab.com/?user=fadzaa&theme=react" alt="fadzaa"/></p>
 
