@@ -1,12 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fattah+Anggit+Al+Dzakwan;Junior+Software+Developer+from+SMK+Raden+Umar+Said" alt="Typing SVG" /></a></h1>
+
+
 <div align="left" display="flex"> 
   <img src="https://komarev.com/ghpvc/?username=fadzaa&label=Profile%20views&color=0e75b6&style=flat" alt="fadzaa" /> 
   <img src="http://img.shields.io/badge/Code%20Time-65%20hrs%204%20mins-blue" /> 
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.6%20thousand%20lines%20of%20code-blue" /> 
 </div>
-<p align="right"> </p>
 
+<br/>
 
 <!--START_SECTION:waka-->
 
