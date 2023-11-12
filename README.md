@@ -23,3 +23,6 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=fadzaa&theme=react" alt="fadzaa"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
