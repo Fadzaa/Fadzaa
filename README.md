@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fattah+Anggit+Al+Dzakwan;Junior+Software+Developer+from+SMK+Raden+Umar+Said" alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fattah+Anggit+Al+Dzakwan;Junior+Software+Developer+from+SMK+Raden+Umar+Said" alt="Typing SVG" /></a></h1>
 
 
 <div align="left" display="flex"> 
