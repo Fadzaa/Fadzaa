@@ -13,29 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: anmol098/waka-readme-stats@master # do NOT replace with anything else
+      - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: Fadzaa/Fadzaa
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 5 # optional
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: true
           SHOW_LINES_OF_CODE: true
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          AUTHOR_NAME: Fadza # optional
-          AUTHOR_EMAIL: fadza@20@gmail.com # optional
-          # you can populate email-id with secretes instead
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
