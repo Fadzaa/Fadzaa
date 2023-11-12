@@ -27,19 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 October 2023 - To: 11 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
-Total Time: 62 hrs 45 mins
+Total Time: 21 hrs 40 mins
 
-Dart              22 hrs 34 mins  >>>>>>>>>----------------   35.94 %
-Vue.js            10 hrs 30 mins  >>>>---------------------   16.74 %
-XML               9 hrs 29 mins   >>>>---------------------   15.12 %
-JavaScript        5 hrs 12 mins   >>-----------------------   08.29 %
-HTML              4 hrs 39 mins   >>-----------------------   07.42 %
-Kotlin            4 hrs 19 mins   >>-----------------------   06.88 %
-PHP               1 hr 53 mins    >------------------------   03.02 %
-Blade Template    1 hr 48 mins    >------------------------   02.89 %
-Groovy            21 mins         -------------------------   00.57 %
+XML               5 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+JavaScript        4 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Kotlin            3 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Dart              2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Vue.js            2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
 ```
 
 <!--END_SECTION:waka-->
