@@ -4,8 +4,6 @@
 
 <div align="left" display="flex"> 
   <img src="https://komarev.com/ghpvc/?username=fadzaa&label=Profile%20views&color=0e75b6&style=flat" alt="fadzaa" /> 
-  <img src="http://img.shields.io/badge/Code%20Time-65%20hrs%204%20mins-blue" /> 
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.6%20thousand%20lines%20of%20code-blue" /> 
 </div>
 
 <br/>
@@ -13,22 +11,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue)
+
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.6%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 230 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+<br/>
+  
 **I'm a Night 🦉** 
 
 ```text
@@ -86,13 +74,6 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Fadzaa/Fadzaa/main/assets/bar_graph.png)
-
 
  Last Updated on 13/11/2023 00:48:49 UTC
 <!--END_SECTION:waka-->
